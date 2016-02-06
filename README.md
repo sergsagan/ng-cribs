@@ -1,1 +1,3 @@
-# ng-cribs
+# ng-cribs AngularJs-project
+
+# npm install
